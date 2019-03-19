@@ -1,0 +1,11 @@
+{
+  "name": "learnvue",
+  "version": "1.0.0",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  },
+  "dependencies": {
+    "vue": "^2.6.9"
+  }
+}
